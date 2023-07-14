@@ -1,0 +1,2 @@
+Prefix plugins/TDNN/example/
+Plugin TDNN inputfile parameters.txt outputfile none
